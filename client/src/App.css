@@ -1,0 +1,5 @@
+.box {
+    margin-bottom: 1rem;  
+    break-inside: avoid-column;
+    padding-bottom: .1rem;
+  }
